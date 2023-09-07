@@ -6,6 +6,6 @@
 </br>
 </br>
 <div align="justify">
-- 👷🏻‍♀️Desafio 2 (Orientação a Objetos), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos e programado em python.
+- 👷🏻‍♀️Desafio 2 (Banco de Dados), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos e programado SQL e python.
 </div>
 </br>
